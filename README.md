@@ -1,4 +1,5 @@
 **Assignment 3**
+
 First I created a folder named assign-3 in local and created a simple website with html, css and js and then I staged and commited.
 
 Then created a branch feature/update-style in that changed color from black to red for heading and changed heading , then staged, commited and pushed to GitHub.
